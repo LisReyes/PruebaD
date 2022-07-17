@@ -39,7 +39,7 @@ include('includes/dbconnection.php');
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5">
-            <h2 class="mb-0 bread">Acerca de</h2>
+            <h2 class="mb-0 bread">Acerca de nosotors</h2>
             <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Inicio <i class="ion-ios-arrow-forward"></i></a></span> <span>Acerca de <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
