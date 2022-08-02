@@ -27,7 +27,7 @@ $pagedes=$_POST['pagedes'];
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>SPA | Acerca de</title>
+<title>Dentista | Acerca de</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Bootstrap Core CSS -->
@@ -74,6 +74,9 @@ $pagedes=$_POST['pagedes'];
 					<div class="form-grids row widget-shadow" data-example-id="basic-forms"> 
 						<div class="form-title">
 							<h4>Actualizar Acerca de:</h4>
+							<p> Somos una empresa enfocada en el bienestar de nuestros pacientes por lo cual
+								nos comprometemos 100% al cuidado de tu salud bucal, poniendo a tu disposició más
+								de 10 especialistas en la salud bucal</p>
 						</div>
 						<div class="form-body">
 							<form method="post">

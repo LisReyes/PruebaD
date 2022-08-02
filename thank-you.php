@@ -6,7 +6,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SPA-GRACIAS</title>
+    <title>EntornoDental-GRACIAS</title>
     
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -58,12 +58,12 @@ error_reporting(0);
     		<div class="row no-gutters">
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="images/work-1.jpg" class="img-fluid" alt="Colorlib Template">
+	    				<img src="images/work1.jpg" class="img-fluid" alt="Colorlib Template">
 	    				<div class="text">
-	    					<span>Stylist</span>
-	    					<h3>Makeup</h3>
+	    					<span>Sonrisas</span>
+	    					<h3>Alineamiento</h3>
 	    				</div>
-	    				<a href="images/work-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<a href="images/work1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
@@ -72,8 +72,8 @@ error_reporting(0);
     				<div class="project">
 	    				<img src="images/work-2.jpg" class="img-fluid" alt="Colorlib Template">
 	    				<div class="text">
-	    					<span>Beauty</span>
-	    					<h3>Makeup</h3>
+	    					<span>Personal</span>
+	    					<h3>Profesional</h3>
 	    				</div>
 	    				<a href="images/work-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
@@ -84,8 +84,8 @@ error_reporting(0);
     				<div class="project">
 	    				<img src="images/work-3.jpg" class="img-fluid" alt="Colorlib Template">
 	    				<div class="text">
-	    					<span>Beauty</span>
-	    					<h3>Makeup</h3>
+	    					<span>Instalaciones</span>
+	    					<h3>Limpias</h3>
 	    				</div>
 	    				<a href="images/work-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
